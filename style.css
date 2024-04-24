@@ -16,7 +16,7 @@
 }
 
 .header{
-    background-color: #F2D0A9;
+    background-color: #58A4B0;
     width: 100vw;
     padding: 2%;
     display: flex;
@@ -52,4 +52,5 @@
 }
 .jogada{
     padding: 1%;
+    background-color: #F2D0A9;
 }
